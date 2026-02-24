@@ -1,2 +1,2 @@
-# lessons
+# kotlin lessons
 Обучение на Kotlin
